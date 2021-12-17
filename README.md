@@ -25,7 +25,7 @@ Data quality issues faced were:
 • Data inconsistency, Handled by renaming inconsistent data
 
 
-# Key Finding:
+# Key Findings
 
 • Averagely, 12% of people who come across digital advertisements click on them
 
@@ -48,3 +48,34 @@ Technorati, Mashable, Epinions , Mouthshut
 
 Yuku , Sharethis , Startaid , Feedburner , Ping, Meetup, Viadeo , Yfrog , Docs, netvibes , Twine, Jumptags , Dropbox,
 Ubertwitter , Diigo
+
+# Modelling
+
+•A logistic regression was used to create a model for prediction of clicks this is for comprehensibility, predictive power and low computational requirement.
+
+• The model mathematically relates the number of impressions gotten from all websites to the outcome, 0/1 (Non Click or Click)
+
+• The model was trained to robustly to handle generalized data and is optimized to perform at an accuracy of 98%
+
+# Recommendations
+
+• Focus on websites that have a high impact on click such as Thisnext , Wordpress , Typepad , Yelp and pay
+less attention to low impact websites
+
+• Focus on website categories that have higher impact on clicks paying most attention on blogs and opinion
+sites
+
+• Target users with around 80 impressions as more or less will be less effective
+
+•A long term strategy could include improving Click through rate by considering alternative adverts and
+experimentally determining the most effective
+
+•Clicks are important but conversions are better. As some websites may present high click, low conversions
+may be gotten. On that note, it will be important to consider an analysis on websites that present the
+most conversions as this has longer term benefits.
+
+•The trained model can be used to make predictions before embarking on marketing campaigns for more
+efficient use of resources
+
+• As the behavior of customers and potential customers change with time, subsequent collation,
+visualization and modelling will be required. An automated system is recommended.
