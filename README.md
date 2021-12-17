@@ -53,6 +53,8 @@ Ubertwitter , Diigo
 
 •A logistic regression was used to create a model for prediction of clicks this is for comprehensibility, predictive power and low computational requirement.
 
+![App Screenshot](https://miro.medium.com/max/720/1*CYAn9ACXrWX3IneHSoMVOQ.gif)
+
 • The model mathematically relates the number of impressions gotten from all websites to the outcome, 0/1 (Non Click or Click)
 
 • The model was trained to robustly to handle generalized data and is optimized to perform at an accuracy of 98%
