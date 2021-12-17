@@ -1,6 +1,6 @@
 # Understanding and Prediction Ad Clicks for Building A Digital Investment Strategy
 
-XYZ Limited requires a longer term, more focused, digital investment strategy and
+XYZ Limited requires a longer term, more focused, digital marketing strategy and
 presents experimental data in that regard.
 
 To solve this problem
