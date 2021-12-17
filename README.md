@@ -18,7 +18,7 @@ advertising their service for the last 10 weeks across a wide variety of social,
 user content driven websites.
 Data quality issues faced were:
 
-• Presence of a major outlier handled by removal
+• Presence of outliers handled by removal
 
 • Missing values handled by imputing averages
 
