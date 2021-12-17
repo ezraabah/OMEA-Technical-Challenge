@@ -39,12 +39,12 @@ Data quality issues faced were:
 
 • Impressions above 140 are likely to yield no clicks as it shows that customer may be disinterested in what is advert.
 
-• Top 15 websites in descending order:
+• Top 15 websites in descending order ( Using Pearsons correlation):
 
 Thisnext , Wordpress , Typepad , Yelp, Livejournal , Kaboodle, Cnet , Blogger, Mybloglog , Xanga, Blogcatalog ,
 Technorati, Mashable, Epinions , Mouthshut
 
-• Worst 15 websites in descending order:
+• Worst 15 websites in descending order ( Using Pearsons correlation):
 
 Yuku , Sharethis , Startaid , Feedburner , Ping, Meetup, Viadeo , Yfrog , Docs, netvibes , Twine, Jumptags , Dropbox,
 Ubertwitter , Diigo
@@ -54,6 +54,8 @@ Ubertwitter , Diigo
 •A logistic regression was used to create a model for prediction of clicks this is for comprehensibility, predictive power and low computational requirement.
 
 ![App Screenshot](https://miro.medium.com/max/720/1*CYAn9ACXrWX3IneHSoMVOQ.gif)
+
+• Optimum cross validation of 3 was used to reduce overfitting
 
 • The model mathematically relates the number of impressions gotten from all websites to the outcome, 0/1 (Non Click or Click)
 
